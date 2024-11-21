@@ -1,0 +1,34 @@
+{
+    "status": true,
+    "data": [
+      {
+        "brand": "Apple",
+        "phone_number": "+1-800-692-7753",
+        "slug": "apple-iphone-15",
+        "status": "available",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-max"
+      },
+      {
+        "brand": "Samsung",
+        "phone_number": "+1-800-726-7864",
+        "slug": "samsung-galaxy-s23",
+        "status": "available",
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/galaxy-s23-s911/gallery/levant-galaxy-s23-s911-sm-s911bzadeue-thumb-534233472?$720_576_PNG$"
+      },
+      {
+        "brand": "Google",
+        "phone_number": "+1-844-613-7593",
+        "slug": "google-pixel-8",
+        "status": "available",
+        "image": "https://store.google.com/us/product/pixel_8_pro?hl=en-US"
+      },
+      {
+        "brand": "OnePlus",
+        "phone_number": "+1-833-777-3633",
+        "slug": "oneplus-11",
+        "status": "available",
+        "image": "https://cdn1.oneplus.net/11/specs/img/phone_specs_phone_1.jpg"
+      }
+    ]
+  }
+  
